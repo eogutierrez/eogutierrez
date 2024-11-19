@@ -3,8 +3,7 @@
 Soy Elizabeth Ortiz @eogutierrez
 - 👀 Estoy interesada en análisis de datos socioambienteales y moleculares. 
 - 🌱 Actualmente aprendiendo SIG. 
-- 💞️ Espero colaborar en temas de ciencias de datos y determinantes de la salud.
-- 📫 How to reach me ...
+- 💞️ Colaboro en temas de ciencias de datos y determinantes de la salud.
 - 😄 Pronouns: Ella
 
 <!---
